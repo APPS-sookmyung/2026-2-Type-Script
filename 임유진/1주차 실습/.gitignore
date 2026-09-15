@@ -1,0 +1,18 @@
+# 패키지 매니저 폴더 
+node_modules/
+
+# 빌드 결과물 
+dist/
+build/
+
+# 환경 변수 파일 
+.env
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
