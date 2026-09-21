@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node src/index.ts",
+    "dev": "nodemon --watch \"src/**/*.ts\" --exec \"tsx\" src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13"
+  }
+}
